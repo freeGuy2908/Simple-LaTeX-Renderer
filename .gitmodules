@@ -1,0 +1,3 @@
+[submodule "FE"]
+	path = FE
+	url = https://github.com/freeGuy2908/Simple-LaTeX-Renderer.git
